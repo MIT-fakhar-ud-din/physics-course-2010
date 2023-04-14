@@ -1,0 +1,33 @@
+{
+  "term": "Summer",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "physics-test-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "physics-test-course"
+  },
+  "course_title": "Physics Test",
+  "course_description": "Description",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1122",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "physics-test-course"
+  },
+  "learning_resource_types": [
+    "Demonstration Audio"
+  ],
+  "site_uid": "9c31ac7a-0ea4-46ae-91c5-df009733ebaf",
+  "site_short_id": "physics-course-2010"
+}
